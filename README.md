@@ -1,14 +1,14 @@
 # PhoneBook
 PhoneBookApp is a simple command-line application written in C# that allows users to manage their contacts. With this application, you can add, delete, update, search, and view your contacts. It provides a user-friendly menu-driven interface for easy navigation.
-Key Features:
 
+Key Features:
 Add contacts with names and phone numbers.
 Delete contacts by name or phone number.
 Update contact information.
 Search for contacts by name or phone number.
 View a list of all saved contacts.
-Usage:
 
+Usage:
 Clone this repository to your local machine.
 Build and run the application using a C# development environment.
 Follow the on-screen menu to perform various contact management tasks.
